@@ -55,10 +55,10 @@ visitor@crsk:~$ cat /etc/motd
 
 ## `$ cat ~/now.txt` — currently building
 
-> ### 🤖 4AIs — an AI agent that *lives inside* your phone
-> not an app that calls an API. an agent with **hands.** it runs a full AI
+> ###  4AIs  an AI agent that *lives inside* your phone
+>  an agent with **hands.** it runs a full AI
 > gateway on-device, sees your screen, taps, swipes, and types  and does
-> your busywork for you. no backend. no accounts. no telemetry. your keys,
+> your busywork for you.  your keys,
 > your phone, your agent.
 
 <div align="center">
