@@ -16,7 +16,7 @@ Are you sure you want to continue connecting? yes
   ╚██████╗ ██║  ██║ ███████║ ██║  ██╗
    ╚═════╝ ╚═╝  ╚═╝ ╚══════╝ ╚═╝  ╚═╝
 
-  [ OK ] founder kernel .................. v18.0-LTS
+  [ OK ] founder kernel .................. v17.0-LTS
   [ OK ] caffeine driver ................. mounted
   [ OK ] shipping module ................. OVERCLOCKED
   [FAIL] fear_of_failure.service ......... not found (good)
@@ -35,7 +35,7 @@ visitor@crsk:~$ cat /etc/motd
       ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
      █░░░░░░░░░░░░░░░░█      crsk@earth
      █░              ░█      ─────────────────────────────────
-     █░  ◉        ◉  ░█      OS ········ Founder Linux 18 LTS
+     █░  ◉        ◉  ░█      OS ········ Founder Linux 17 LTS
      █░              ░█      Kernel ···· ship-it 24/7
      █░   ‿‿‿‿‿‿‿‿   ░█      Uptime ···· 17 years, 0 breaks
      █░              ░█      Shell ····· builds > talks
@@ -55,10 +55,10 @@ visitor@crsk:~$ cat /etc/motd
 
 ## `$ cat ~/now.txt` — currently building
 
-> ###  4AIs  an AI agent that *lives inside* your phone
->  an agent with **hands.** it runs a full AI
-> gateway on-device, sees your screen, taps, swipes, and types  and does
-> your busywork for you.  your keys,
+> ### 4AIs an AI agent that *lives inside* your phone
+> an agent with **hands.** it runs a full AI
+> gateway on-device, sees your screen, taps, swipes, and types and does
+> your busywork for you. your keys,
 > your phone, your agent.
 
 <div align="center">
