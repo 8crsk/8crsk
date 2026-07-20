@@ -63,7 +63,7 @@ visitor@crsk:~$ cat /etc/motd
 <div align="center">
 
 <a href="https://github.com/8crsk/openclaw-android">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=8crsk&repo=openclaw-android&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&hide_border=true" alt="openclaw-android" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=8crsk&repo=openclaw-android&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&hide_border=true" alt="openclaw-android" />
 </a>
 
 </div>
@@ -85,8 +85,10 @@ visitor@crsk:~$ crontab -l
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=8crsk&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41" alt="stats" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=8crsk&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41" alt="stats" />
 <img height="165" src="https://streak-stats.demolab.com?user=8crsk&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=8crsk&bg_color=0d1117&color=00ff41&line=00ff41&point=c9d1d9&area=true&area_color=00ff41&hide_border=true&custom_title=commit%20cardiogram%20%E2%80%94%20patient%20is%20alive" alt="activity graph" width="100%" />
 
 </div>
 
