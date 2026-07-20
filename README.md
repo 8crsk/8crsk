@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=00FF41&background=00000000&center=true&vCenter=true&width=620&lines=hi%2C+i'm+CRSK;18+y%2Fo+founder.+i+ship.;building+AI+agents+that+live+in+your+phone;i+just+wanna+make+products+people+love" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=00FF41&background=00000000&center=true&vCenter=true&width=620&lines=hi%2C+i'm+CRSK;17+y%2Fo+founder.+i+ship.;building+AI+agents+that+live+in+your+phone;i+just+wanna+make+products+people+love" alt="typing intro" />
 
 </div>
 
@@ -22,7 +22,7 @@ Are you sure you want to continue connecting? yes
   [FAIL] fear_of_failure.service ......... not found (good)
 
 visitor@crsk:~$ whoami
-18. founder. i build products and ship them before the doubt loads.
+17. founder. i build products and ship them before the doubt loads.
 
 visitor@crsk:~$ cat /etc/motd
 "there's a supercomputer in your pocket doing nothing all day.
@@ -37,7 +37,7 @@ visitor@crsk:~$ cat /etc/motd
      █░              ░█      ─────────────────────────────────
      █░  ◉        ◉  ░█      OS ········ Founder Linux 18 LTS
      █░              ░█      Kernel ···· ship-it 24/7
-     █░   ‿‿‿‿‿‿‿‿   ░█      Uptime ···· 18 years, 0 breaks
+     █░   ‿‿‿‿‿‿‿‿   ░█      Uptime ···· 17 years, 0 breaks
      █░              ░█      Shell ····· builds > talks
      █░░░░░░░░░░░░░░░░█      CPU ······· ambition @ 5.0GHz
      ▀▀▀▀▀▀▀█░░█▀▀▀▀▀▀▀      Memory ···· full of product ideas
@@ -57,7 +57,7 @@ visitor@crsk:~$ cat /etc/motd
 
 > ### 🤖 4AIs — an AI agent that *lives inside* your phone
 > not an app that calls an API. an agent with **hands.** it runs a full AI
-> gateway on-device, sees your screen, taps, swipes, and types — and does
+> gateway on-device, sees your screen, taps, swipes, and types  and does
 > your busywork for you. no backend. no accounts. no telemetry. your keys,
 > your phone, your agent.
 
