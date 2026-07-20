@@ -32,17 +32,18 @@ visitor@crsk:~$ cat /etc/motd
 <div align="center">
 
 ```text
-      ▄▄▄▄▄▄▄▄▄▄▄▄▄▄            crsk@earth
-     █░░░░░░░░░░░░░░█           ──────────────────────────────────────
-     █░              ░█          OS ········· Founder Linux 18 LTS
-     █░   ◉     ◉   ░█          Kernel ····· ship-it 24/7
-     █░              ░█          Uptime ····· 18 years, 0 breaks taken
-     █░    ‿‿‿‿‿    ░█          Shell ······ builds > talks
-     █░              ░█          Editor ····· whatever ships fastest
-     █░░░░░░░░░░░░░░█           CPU ········ ambition @ 5.0GHz (no fan)
-      ▀▀▀▀▀▀█░█▀▀▀▀▀            Memory ····· full of product ideas
-            █░█                  Location ··· probably building
-        ⟨ it's alive ⟩           Mission ···· make products people love 💖
+      ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+     █░░░░░░░░░░░░░░░░█      crsk@earth
+     █░              ░█      ─────────────────────────────────
+     █░  ◉        ◉  ░█      OS ········ Founder Linux 18 LTS
+     █░              ░█      Kernel ···· ship-it 24/7
+     █░   ‿‿‿‿‿‿‿‿   ░█      Uptime ···· 18 years, 0 breaks
+     █░              ░█      Shell ····· builds > talks
+     █░░░░░░░░░░░░░░░░█      CPU ······· ambition @ 5.0GHz
+     ▀▀▀▀▀▀▀█░░█▀▀▀▀▀▀▀      Memory ···· full of product ideas
+            █░░█             Location ·· probably building
+                             Mission ··· products people love 💖
+       > it's alive <
 ```
 
 </div>
