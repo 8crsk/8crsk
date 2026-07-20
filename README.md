@@ -97,8 +97,10 @@ visitor@crsk:~$ crontab -l
 
 <div align="center">
 
+<a href="https://x.com/try4ais"><img src="https://img.shields.io/badge/%40try4ais-0d1117?style=for-the-badge&logo=x&logoColor=00ff41" alt="x/twitter"></a>
+<a href="https://instagram.com/8crsk"><img src="https://img.shields.io/badge/8crsk-0d1117?style=for-the-badge&logo=instagram&logoColor=00ff41" alt="instagram"></a>
+<img src="https://img.shields.io/badge/crsk-0d1117?style=for-the-badge&logo=discord&logoColor=00ff41" alt="discord: crsk">
 <a href="mailto:sanjaykeerthanartist@gmail.com"><img src="https://img.shields.io/badge/email-00ff41?style=for-the-badge&logo=gmail&logoColor=0d1117" alt="email"></a>
-<a href="https://github.com/8crsk"><img src="https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github&logoColor=00ff41" alt="github"></a>
 <img src="https://komarev.com/ghpvc/?username=8crsk&color=00ff41&style=for-the-badge&label=visitors" alt="visitors">
 
 </div>
